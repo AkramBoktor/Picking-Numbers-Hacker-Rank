@@ -1,0 +1,7 @@
+C:\Users\Akram\Desktop\HackerRank\Day9\Picking Numbers\bin\Debug\Picking Numbers.exe.config
+C:\Users\Akram\Desktop\HackerRank\Day9\Picking Numbers\bin\Debug\Picking Numbers.exe
+C:\Users\Akram\Desktop\HackerRank\Day9\Picking Numbers\bin\Debug\Picking Numbers.pdb
+C:\Users\Akram\Desktop\HackerRank\Day9\Picking Numbers\obj\Debug\Picking Numbers.csprojAssemblyReference.cache
+C:\Users\Akram\Desktop\HackerRank\Day9\Picking Numbers\obj\Debug\Picking Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Akram\Desktop\HackerRank\Day9\Picking Numbers\obj\Debug\Picking Numbers.exe
+C:\Users\Akram\Desktop\HackerRank\Day9\Picking Numbers\obj\Debug\Picking Numbers.pdb
